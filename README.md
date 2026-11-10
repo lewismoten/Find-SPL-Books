@@ -1,3 +1,5 @@
+![Find-SPL-Books: Library book shelves with a magnifying glass (placeholder repo)](docs/images/social-preview.png)
+
 # Find SPL Books
 
 Grab a collection of all books in the library.
